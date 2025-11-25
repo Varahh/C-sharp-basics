@@ -1,0 +1,7 @@
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\bin\Debug\Lesson1_Task2.exe.config
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\bin\Debug\Lesson1_Task2.exe
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\bin\Debug\Lesson1_Task2.pdb
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.csproj.AssemblyReference.cache
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.csproj.CoreCompileInputs.cache
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.exe
+D:\Tasks\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.pdb
