@@ -1,0 +1,7 @@
+D:\Tasks\Class13_Task2\Class13_Task2\obj\Debug\Class13_Task2.csproj.AssemblyReference.cache
+D:\Tasks\Class13_Task2\Class13_Task2\obj\Debug\Class13_Task2.csproj.CoreCompileInputs.cache
+D:\Tasks\Class13_Task2\Class13_Task2\bin\Debug\Class13_Task2.exe.config
+D:\Tasks\Class13_Task2\Class13_Task2\bin\Debug\Class13_Task2.exe
+D:\Tasks\Class13_Task2\Class13_Task2\bin\Debug\Class13_Task2.pdb
+D:\Tasks\Class13_Task2\Class13_Task2\obj\Debug\Class13_Task2.exe
+D:\Tasks\Class13_Task2\Class13_Task2\obj\Debug\Class13_Task2.pdb

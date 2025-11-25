@@ -1,0 +1,6 @@
+D:\Tasks\Class14_T1Lib\Class14_T1Lib\bin\Debug\Class14_T1Lib.dll
+D:\Tasks\Class14_T1Lib\Class14_T1Lib\bin\Debug\Class14_T1Lib.pdb
+D:\Tasks\Class14_T1Lib\Class14_T1Lib\obj\Debug\Class14_T1Lib.csproj.AssemblyReference.cache
+D:\Tasks\Class14_T1Lib\Class14_T1Lib\obj\Debug\Class14_T1Lib.csproj.CoreCompileInputs.cache
+D:\Tasks\Class14_T1Lib\Class14_T1Lib\obj\Debug\Class14_T1Lib.dll
+D:\Tasks\Class14_T1Lib\Class14_T1Lib\obj\Debug\Class14_T1Lib.pdb
